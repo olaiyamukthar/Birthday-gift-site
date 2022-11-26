@@ -1,26 +1,25 @@
 body{
     font-family: 'Happy Monkey', cursive;
     text-align: center;
-    background: linear-gradient(#BFABCB, #8D89A6) ;
+    background: url("images/gra-back.jpg");
+    background-size: cover;
     color: #ffffff;
 }
 #pic{
     width: 150px;
     border-radius: 50%;
-    border: 6px solid #F2D5F8;
+    border: 6px solid #ffffff;
 }
 h1, h2, h3, h4, p {
     text-shadow: 0 0 1px black;
 }
 #age {
-    background: #F2D5F8;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
 }
 #date {
     margin: 0;
-    background: #F2D5F8;
     padding: 5px 10px;
     border-radius: 5px;
 }
