@@ -39,7 +39,7 @@ h1, h2, h3, h4, p {
     margin-top: 0;
 }
 .gift-img{
-    background-image: url("images/gift\ cover.webp");
+    background-image: url("images/gift cover.webp");
     background-size: cover;
     margin:0 auto;
     height: 400px;
@@ -49,21 +49,23 @@ h1, h2, h3, h4, p {
 }
 #happy:hover{
     background-image: url("images/happy.gif");
+    background-position-x: center;
 }
 #react:hover{
     background-image: url("images/react.gif");
+    background-position-x: center;
 }
 #describe:hover{
     background-image: url("images/describe.webp");
+    background-position-x: center;
 }
 #badass:hover{
     background-image: url("images/badass.webp");
-}
-#cheers{
-    height: 200px;
+    background-position-x: center;
 }
 #cheers:hover{
     background-image: url("images/cheers.webp");
+    background-position-x: center;
 }
 .foot{
     width: 400px;
